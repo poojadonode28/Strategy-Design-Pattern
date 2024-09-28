@@ -1,4 +1,4 @@
-package WithStrategyPattern;
+package Strategy;
 
 public interface DriveStrategy {
 
