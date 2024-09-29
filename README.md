@@ -14,3 +14,4 @@ we are reusing the code at second level which is not good practice.
 Create DriveStrategy Interface
 create two classes SportsDrive and NormalDrive
 use this DriveStrategy in Vehicle
+![Screenshot 2024-09-29 154426](https://github.com/user-attachments/assets/27c76de8-216f-45dc-8ae1-06aecb355369)
